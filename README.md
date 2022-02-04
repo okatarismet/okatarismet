@@ -22,7 +22,7 @@ This is the place where I opensource stuff and break things 🤣
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+<img align="left" alt="Nodejs" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="iOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
@@ -42,11 +42,11 @@ This is the place where I opensource stuff and break things 🤣
 <br />
 
 ### 📊 GitHub Stats:
-![Ismet Okatar's github stats](https://github-readme-stats.vercel.app/api?username=okatarismet&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
+![Ismet Okatar's github stats](https://github-readme-stats.vercel.app/api?username=okatarismet&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues)
 
 ### 📕 Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Creating an Impressive GitHub Profile README](https://medium.com/@mr.vibhorchaudhary/impressive-github-profile-readme-606e3b7b075d?source=rss-30c08688da0e------2)
+- [Kadane Algorithm](https://medium.com/@okatarismet/kadane-algoritmas%C4%B1-d493456a5a2a)
 <!-- BLOG-POST-LIST:END -->
 
 [linkedin]: https://linkedin.com/in/ismetokatar
