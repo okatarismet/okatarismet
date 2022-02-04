@@ -10,7 +10,7 @@ This is the place where I opensource stuff and break things 🤣
 - 👯 I’m looking to collaborate on more open source projects.
 - 💬 Ask me anything [here](https://github.com/okatarismet/okatarismet/issues) related to <b>Full-Stack Development,Nodejs, React, JavaScript,React Native, Swift, Java.</b>
 - 📫 How to reach me: [@ismetokatar][linkedin] or say 👋 on Email at [Vibhor Chaudhary](mailto:okatarismet@gmail.com)
-- ⚡ Fun fact: I ❤️ 🐈 & ❤️ 🏋️‍♀️
+- ⚡ Fun fact: I ❤️ 🐈 & 🏋️‍♀️
 ### Connect with me:
 
 [<img align="left" alt="okatarismet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
