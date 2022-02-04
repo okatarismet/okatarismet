@@ -1,14 +1,14 @@
 ### Hi there, I'm Ismet Okatar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
-**vibhorchaudhary/vibhorchaudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**okatarismet/okatarismet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 This is the place where I opensource stuff and break things 👾
 - 🔭 I’m currently working on something really cool 😉
 - 🌱 I’m currently learning Blokchain & DevOps 🧑‍💻
 - 👯 I’m looking to collaborate on more open source projects. 
 - 💬 Ask me anything [here](https://github.com/okatarismet/okatarismet/issues) related to <b>Full-Stack Development,Nodejs, React, JavaScript,React Native, Java.</b>
-- 📫 How to reach me: [@ismetokatar][linkedin] or say 👋 on Email at [Vibhor Chaudhary](mailto:okatarismet@gmail.com)
+- 📫 How to reach me: [@ismetokatar][linkedin] or say 👋 on Email at [Ismet Okatar](mailto:okatarismet@gmail.com)
 - ⚡ Fun fact: I ❤️ 🐈 & 🏋️‍♀️
 ### Connect with me:
 
