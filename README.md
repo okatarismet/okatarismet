@@ -5,7 +5,7 @@
 
 This is the place where I opensource stuff and break things 👾
 - 🔭 I’m currently working on something really cool 😉
-- 🌱 I’m currently learning Blokchain & DevOps 🧑‍💻
+- 🌱 I’m currently interested in Human Brain & Cognitive Science 🧑‍💻
 - 👯 I’m looking to collaborate on more open source projects. 
 - 💬 Ask me anything [here](https://github.com/okatarismet/okatarismet/issues) related to <b>Full-Stack Development,Nodejs, React, JavaScript,React Native, Java.</b>
 - 📫 How to reach me: [@ismetokatar][linkedin] or say 👋 on Email at [Ismet Okatar](mailto:okatarismet@gmail.com)
